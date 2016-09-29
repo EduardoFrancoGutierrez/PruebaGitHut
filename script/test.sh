@@ -2,7 +2,7 @@
 set +v echo off
 # Con  se establecen comentarios
 #set se definen variables
-export workspace=/Users/eduardofranco/Desktop/MIW/workspace_IWVG/maven2
+export workspace=/Users/eduardofranco/Desktop/MIW/workspace_IWVG/PruebaGitHut
 #Las variables de entorno se pueden configurar directamente en Windows cuando se tienen los permisos necesarios
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home
 export M2_HOME=/Users/eduardofranco/Desktop/MIW/apache-maven-3.3.9
